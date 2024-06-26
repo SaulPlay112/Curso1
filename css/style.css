@@ -32,3 +32,12 @@ a{
     color:rgb(124, 0, 249);
     text-decoration: line-through;
 }
+form{
+   
+    width:300px;
+    height:300px;
+}
+input{
+    width: 300px;
+    text-align: center;
+}
